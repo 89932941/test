@@ -3,6 +3,6 @@
     "description": "test",
     "require": {
         "php": "5.6.3",
-        "tool/tool": "1.*"
+        "test/tool": "1.*"
     }
 }
