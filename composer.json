@@ -3,6 +3,6 @@
     "description": "test",
     "require": {
         "php": ">=5.3.3",
-        "vendor/tool": "1.*"
+        "vendor/tool": "@dev"
     }
 }
