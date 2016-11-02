@@ -1,8 +1,15 @@
 {
-"name": "vendor/test",
+    "name": "vendor/test",
     "description": "A short description of what your package does",
     "require": {
         "php": "^5.3.3 || ^7.0",
         "vendor/package": "1.*"
+    },
+    "repositories": {
+    "packagist": {
+        "type": "composer",
+        "url": "https://packagist.phpcomposer.com"
     }
+}
+
 }
