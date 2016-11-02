@@ -1,8 +1,9 @@
 {
     "name": "89932941/test",
     "description": "test",
+    "minimum-stability": "dev",
     "require": {
         "php": "5.6.3",
-        "test/tool": "1.*"
+        "vendor/tool": "1.*"
     }
 }
