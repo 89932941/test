@@ -3,7 +3,7 @@
     "description": "test",
     "minimum-stability": "dev",
     "require": {
-        "php": "5.6.3",
+        "php": ">=5.3.3",
         "vendor/tool": "1.*"
     }
 }
